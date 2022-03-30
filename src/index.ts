@@ -139,7 +139,7 @@ function inArray(elem, arr){
 //     // console.log(intersection(set1, set2))
 
 
-
+  
 
 function sbtract(set1: Set<number>, set2: Set<number>): number[] {
     //TODO write function returning array of numbers from set1 that don't exist in the 
